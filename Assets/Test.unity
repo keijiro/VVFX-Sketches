@@ -1542,7 +1542,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ExecuteInEditor: 1
-  m_Bindings: []
+  m_Bindings:
+  - {fileID: 1815972493}
   m_VisualEffect: {fileID: 1815972496}
 --- !u!73398921 &1815972495
 VFXRenderer:
@@ -1847,7 +1848,7 @@ MonoBehaviour:
   streamSource: 1
   streamDescriptor: {fileID: 0}
   embeddedStreamDescriptor:
-    pathToAbc: /Users/keijiro/Documents/VolumetricVideos/sport_coach_man_-_warmup_60_00fps_FILTERED_2880.abc
+    pathToAbc: ../VolumetricVideos/sport_coach_man_-_warmup_60_00fps_FILTERED_2880.abc
     settings:
       normals: 1
       tangents: 1
