@@ -1,11 +1,12 @@
 {
   "dependencies": {
     "com.unity.burst": {
-      "version": "1.8.11",
+      "version": "1.8.12",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.mathematics": "1.2.1"
+        "com.unity.mathematics": "1.2.1",
+        "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -62,7 +63,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "16.0.4",
+      "version": "16.0.5",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
@@ -75,7 +76,7 @@
       }
     },
     "com.unity.render-pipelines.high-definition": {
-      "version": "16.0.4",
+      "version": "16.0.5",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
@@ -86,18 +87,18 @@
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.imageconversion": "1.0.0",
         "com.unity.modules.terrain": "1.0.0",
-        "com.unity.render-pipelines.core": "16.0.4",
-        "com.unity.shadergraph": "16.0.4",
-        "com.unity.visualeffectgraph": "16.0.4",
-        "com.unity.render-pipelines.high-definition-config": "16.0.4"
+        "com.unity.render-pipelines.core": "16.0.5",
+        "com.unity.shadergraph": "16.0.5",
+        "com.unity.visualeffectgraph": "16.0.5",
+        "com.unity.render-pipelines.high-definition-config": "16.0.5"
       }
     },
     "com.unity.render-pipelines.high-definition-config": {
-      "version": "16.0.4",
+      "version": "16.0.5",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "16.0.4"
+        "com.unity.render-pipelines.core": "16.0.5"
       }
     },
     "com.unity.rendering.light-transport": {
@@ -118,11 +119,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-      "version": "16.0.4",
+      "version": "16.0.5",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "16.0.4",
+        "com.unity.render-pipelines.core": "16.0.5",
         "com.unity.searcher": "4.9.2"
       }
     },
@@ -159,12 +160,12 @@
       }
     },
     "com.unity.visualeffectgraph": {
-      "version": "16.0.4",
+      "version": "16.0.5",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.shadergraph": "16.0.4",
-        "com.unity.render-pipelines.core": "16.0.4"
+        "com.unity.shadergraph": "16.0.5",
+        "com.unity.render-pipelines.core": "16.0.5"
       }
     },
     "jp.keijiro.klak.hap": {
